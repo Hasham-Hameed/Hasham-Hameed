@@ -4,7 +4,7 @@ Hi, I'm Hasham 👋
 
 👨‍💻 Who am I?
 
-I'm a Computer Science student learning software development and building practical projects.
+I'm a Computer Science student learning python development and building practical projects.
 
 🔭 Currently
 
