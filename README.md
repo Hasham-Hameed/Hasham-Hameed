@@ -21,4 +21,4 @@ Python • FastAPI • React • JavaScript • SQL • PostgreSQL • Git • G
 📫 Connect with me
 
 - 💼 "LinkedIn" ([Click here](https://www.linkedin.com/in/hashamhameed))
-- 📸 "Instagram" (YOUR_INSTAGRAM_URL)
+- 📸 "Instagram" ([Click here](https://www.instagram.com/mhashamhameed))
