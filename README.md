@@ -8,11 +8,7 @@ I'm a Computer Science student learning python development and building practica
 
 🔭 Currently
 
-- 🐍 Python & FastAPI
-- ⚛️ React
-- 🗄️ SQL & PostgreSQL
-- 🔧 Git & GitHub
-- 🐧 Linux & Deployment
+- 🐍 Python & FastAPI - ⚛️ React - 🗄️ SQL & PostgreSQL - 🔧 Git & GitHub - 🐧 Linux & Deployment
 
 🛠️ Tools
 
@@ -20,5 +16,5 @@ Python • FastAPI • React • JavaScript • SQL • PostgreSQL • Git • G
 
 📫 Connect with me
 
-- 💼 "LinkedIn" ([Click here](https://www.linkedin.com/in/hashamhameed))
-- 📸 "Instagram" ([Click here](https://www.instagram.com/mhashamhameed))
+- 💼 [LinkedIn](https://www.linkedin.com/in/hashamhameed)
+- 📸 [Instagram](https://www.instagram.com/mhashamhameed)
