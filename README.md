@@ -1,10 +1,6 @@
 Hi, I'm Hasham 👋
 
-💻 CS Student | 🐍 Python Web Developer in Progress
-🌐 Learning React, FastAPI & PostgreSQL
-🔧 Building projects and improving my Git/GitHub skills
-🐧 Exploring Linux, APIs & deployment
-🤖 Long-term goal: AI Engineering
+I'm a Computer Science student focused on learning Python web development and building practical projects with technologies like FastAPI, React, and PostgreSQL. I enjoy understanding how things work and turning what I learn into real applications. I'm building these skills to gain professional experience in software development and, in the long term, move toward AI engineering
 
 📫 Connect with me
 
