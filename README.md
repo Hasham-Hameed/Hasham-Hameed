@@ -8,7 +8,7 @@ I'm a Computer Science student learning python development and building practica
 
 🔭 Currently
 
-- 🐍 Python & FastAPI - ⚛️ React - 🗄️ SQL & PostgreSQL - 🔧 Git & GitHub - 🐧 Linux & Deployment
+ 🐍 Python & FastAPI   ⚛️ React   🗄️ SQL & PostgreSQL   🔧 Git & GitHub   🐧 Linux & Deployment
 
 🛠️ Tools
 
