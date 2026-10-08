@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Hasham 👋
 
-<!--
-**Hasham-Hameed/Hasham-Hameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CS Student | Python Developer | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+👨‍💻 Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student learning software development and building practical projects.
+
+🔭 Currently
+
+- 🐍 Python & FastAPI
+- ⚛️ React
+- 🗄️ SQL & PostgreSQL
+- 🔧 Git & GitHub
+- 🐧 Linux & Deployment
+
+🛠️ Tools
+
+Python • FastAPI • React • JavaScript • SQL • PostgreSQL • Git • GitHub • Linux
+
+📫 Connect with me
+
+- 💼 "LinkedIn" (YOUR_LINKEDIN_URL)
+- 📸 "Instagram" (YOUR_INSTAGRAM_URL)
