@@ -1,8 +1,13 @@
-Hi, I'm Hasham 👋
+<h1>Learning Web development as a beginner</h1>
 
-I'm a Computer Science student focused on learning Python web development and building practical projects with technologies like FastAPI, React, and PostgreSQL. I enjoy understanding how things work and turning what I learn into real applications. I'm building these skills to gain professional experience in development and in the long term, move toward AI engineering.
+<h2>Contributors to this repo</h2>
+<ol>
+  <li>kyedoespython</li>
+  <li>Hasham</li>
+</ol>
 
-📫 Connect with me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/hashamhameed)
-- 📸 [Instagram](https://www.instagram.com/mhashamhameed)
+<h2>Packages used in this project</h2>
+<ol>
+  <li>flask</li>
+  <li>flask_sqlalchemy</li>
+</ol>
